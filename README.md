@@ -136,10 +136,6 @@ topico-principal/
 
 ### Estudos Futuros
 
-* Teoria da Informação
-* Otimização
-* Processos Estocásticos
-
 ---
 
 ## Observações
